@@ -1,4 +1,4 @@
-#MacOS Cryptogramme
+# MacOS Cryptogramme
 
 This is a basic MacOS desktop encryption application. It was built for highschool 12th grade Computer and Digital Sciences assignment.
 
